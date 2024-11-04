@@ -19,13 +19,13 @@
 
 #### 游戏画面
 
-![](D:\Code_Files\Xilinx\homework4\pics\过程.PNG)
+![](https://github.com/theElysia/Verilog-2048game/blob/main/pics/%E8%BF%87%E7%A8%8B.PNG?raw=true)
 
-![](D:\Code_Files\Xilinx\homework4\pics\结束.PNG)
+![](https://github.com/theElysia/Verilog-2048game/blob/main/pics/%E7%BB%93%E6%9D%9F.PNG?raw=true)
 
 #### 资源使用
 
-![](D:\Code_Files\Xilinx\homework4\pics\资源使用.png)
+![](https://github.com/theElysia/Verilog-2048game/blob/main/pics/%E8%B5%84%E6%BA%90%E4%BD%BF%E7%94%A8.png?raw=true)
 
 ***
 
@@ -81,4 +81,4 @@ $$
 
 本部分虽然看起来没什么含金量，但却是整个项目中耗费时间最大的部分QwQ。
 
-以及友情提示，**VGA在行场信号无效时RGB一定要输出BLACK！！**不然会有意外。
+以及友情提示，**VGA在行场信号无效时RGB一定要输出BLACK！！** 不然会有意外。
